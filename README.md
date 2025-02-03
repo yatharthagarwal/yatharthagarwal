@@ -1,9 +1,9 @@
 # Welcome to My GitHub Profile! 👨‍💻
 
-Hi there! I'm Yatharth Agarwal, a passionate software developer and an enthusiast in the world of technology. I love solving problems, writing clean code, and contributing to open-source projects. I specialize in web development, data engineering, and cloud technologies.
+Hi there! I'm Yatharth Agarwal, a passionate software developer and an enthusiast in the world of technology. I love solving problems, writing clean code, and contributing to open-source projects. I specialize in web development.
 
 ## 🚀 About Me
-I'm always looking to learn new technologies, build innovative projects, and contribute to the tech community. Currently, I’m exploring AI and machine learning in my free time and collaborating on various open-source projects.
+I'm always looking to learn new technologies, build innovative projects, and contribute to the tech community. Currently, I’m exploring AI and machine learning in my free time.
 
 - 🔭 I’m currently working on: Leveraging AWS for genomic analysis
 - 🌱 I’m learning: NLP, Cloud
