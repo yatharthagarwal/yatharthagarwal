@@ -15,14 +15,14 @@ I'm always looking to learn new technologies, build innovative projects, and con
 - Relevant Coursework: Advance Problem Solving, Data Systems, Software Engineering, Machine Learning, Natural Language Processing
 
 ## 🔗 Connect with Me
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/yatharth-agarwal-280966269/))  
+- [LinkedIn](https://www.linkedin.com/in/yatharth-agarwal-280966269/)
 - [Email](yatharthagrawal@gmail.com)
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yatharthagarwal&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ## 👨‍💻 Codolio Stats
-[![Codolio Stats]]([https://your-codolio-profile-link](https://codolio.com/profile/oxygen_06_05))
+[![Codolio Stats](https://img.shields.io/badge/Codolio%20Profile-Visit-blue)](https://codolio.com/profile/oxygen_06_05)
 
 
 ---
